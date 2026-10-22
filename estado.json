@@ -1,5 +1,56 @@
 {
- "leido": "2026-10-21T15:00-04:00",
- "aprobados": {},
- "notas": {}
+ "leido": "2026-10-22T15:00-04:00",
+ "aprobados": {
+  "chi_email2": "22-10 01:34 pm",
+  "dal_email2": "22-10 01:40 pm",
+  "chi_conq_email_a": "22-10 01:41 pm",
+  "chi_sms3": "22-10 01:42 pm",
+  "chi_conq_sms": "22-10 01:43 pm",
+  "mid_email1": "22-10 01:43 pm",
+  "chi_email3": "22-10 01:48 pm",
+  "chi_conq_email_b": "22-10 02:13 pm",
+  "haw_email1": "22-10 02:15 pm",
+  "mid_sms1": "22-10 02:16 pm",
+  "dal_sms3": "22-10 02:16 pm",
+  "haw_sms1": "22-10 02:16 pm",
+  "pr_email1": "22-10 02:20 pm",
+  "atl_email1": "22-10 02:22 pm",
+  "atl_sms1": "22-10 02:25 pm",
+  "chi_email4": "22-10 02:25 pm",
+  "pr_sms1": "22-10 02:27 pm",
+  "mid_email2": "22-10 02:28 pm",
+  "chi_sms4": "22-10 02:43 pm",
+  "dal_email4": "22-10 02:43 pm",
+  "haw_email2": "22-10 02:44 pm",
+  "haw_conq_email_a": "22-10 02:44 pm",
+  "atl_email2": "22-10 02:44 pm",
+  "mid_sms2": "22-10 02:47 pm",
+  "mid_conq_sms": "22-10 02:47 pm"
+ },
+ "notas": {
+  "dal_email3": [
+   {
+    "texto": "Enviamola en ingles",
+    "hora": "22-10 02:27 pm"
+   }
+  ],
+  "mid_conq_email_a": [
+   {
+    "texto": "poner camisa de juventus",
+    "hora": "22-10 02:28 pm"
+   }
+  ],
+  "dal_email4": [
+   {
+    "texto": "hacerlo en ingles",
+    "hora": "22-10 02:43 pm"
+   }
+  ],
+  "atl_conq_email_a": [
+   {
+    "texto": "Sacar esto \"So you know exactly what your player will experience\"",
+    "hora": "22-10 02:46 pm"
+   }
+  ]
+ }
 }
