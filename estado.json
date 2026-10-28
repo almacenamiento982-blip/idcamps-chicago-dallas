@@ -1,5 +1,5 @@
 {
- "leido": "2026-10-28T01:01-04:00",
+ "leido": "2026-10-28T02:49-04:00",
  "aprobados": {
   "chi_email2": "22-10 01:34 pm",
   "dal_email2": "22-10 01:40 pm",
@@ -25,7 +25,24 @@
   "haw_conq_email_a": "22-10 02:44 pm",
   "atl_email2": "22-10 02:44 pm",
   "mid_sms2": "22-10 02:47 pm",
-  "mid_conq_sms": "22-10 02:47 pm"
+  "mid_conq_sms": "22-10 02:47 pm",
+  "atl_conq_email_a": "David 28-10 (programado)",
+  "atl_conq_sms": "David 28-10 (programado)",
+  "atl_sms2": "David 28-10 (programado)",
+  "dal_conq_sms3": "David 28-10 (programado)",
+  "dal_email3": "David 28-10 (programado)",
+  "haw_conq_email_b": "David 28-10 (programado)",
+  "haw_conq_sms": "David 28-10 (programado)",
+  "haw_email3": "David 28-10 (programado)",
+  "haw_sms2": "David 28-10 (programado)",
+  "mid_conq_email_a": "David 28-10 (programado)",
+  "mid_conq_email_b": "David 28-10 (programado)",
+  "mid_email3": "David 28-10 (programado)",
+  "mid_email4": "David 28-10 (programado)",
+  "pr_conq_email_a": "David 28-10 (programado)",
+  "pr_conq_sms": "David 28-10 (programado)",
+  "pr_email2": "David 28-10 (programado)",
+  "pr_sms2": "David 28-10 (programado)"
  },
  "notas": {
   "dal_email3": [
